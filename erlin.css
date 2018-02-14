@@ -1,0 +1,16 @@
+body{
+
+	background-image:url("bees.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+p {
+	color:#602010;
+	 line-height: 2em;
+  font-size:26px;
+  font-style: italic ;
+  text-align: left;
+  width: 100%;
+
+}
